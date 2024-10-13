@@ -31,7 +31,7 @@ win_differential = Decimal('0.0')
 
 # Wallet information
 from_address = "<player pool address>"  # Your Bech32 address
-wif_private_key = "<player private key>"  # Your WIF private key
+wif_private_key = "<player pool private key>"  # Your WIF private key
 
 # Dev fee information
 dev_fee_1_address = "<Dev Fee Address 1>"
